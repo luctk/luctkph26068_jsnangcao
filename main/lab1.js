@@ -1,3 +1,4 @@
-var a=5;
-var b=6
-console.log (a);
+players1=['gk1','fieldPlayers1'];
+players2=['gk2','fieldPlayers1'];
+allPlayers=['gk1','gk2','fieldPlayers1','fieldPlayers1'];
+players1Final=['gk1','fieldPlayers1','Thiago','Coutinho','Perisic'];
